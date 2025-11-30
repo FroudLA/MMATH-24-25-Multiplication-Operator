@@ -1,1 +1,2 @@
-# MMATH-24-25
+# MMATH-24-25 
+The MATLAB scripts below allow us to look at the behaviour of the spectrum of L^2(-pi,pi) multiplication operators when truncated to the first 2n+1 (or 2n) standard Forier basis elements. We then use this to reproduce results from Levitin/Shargorodsky 2004 Second Order Relative Specrta. We go as far as to finding the second order relative spectra and in doing so identify spectral pollution in the original approximation.
